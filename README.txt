@@ -24,3 +24,6 @@ longitude ln, and the second performs the inverse function.
 
 Northings and eastings are in metres. Latitudes and longitudes are in
 radians.
+
+
+> Sourced from [https://www.linz.govt.nz/data/geodetic-services/download-geodetic-software](https://www.linz.govt.nz/data/geodetic-services/download-geodetic-software)
